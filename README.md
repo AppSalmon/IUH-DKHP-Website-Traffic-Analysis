@@ -7,5 +7,5 @@
 
 
 ![SkepticalFuturamaGIF](https://github.com/AppSalmon/IUH-DKHP-Website-Traffic-Analysis/assets/120777599/45a7b548-9894-4506-8186-912ee8a3b471)
-> Nhìn vào biểu đồ này tôi có thể chắc chắn rằng mình sẽ dễ dàng đăng kí học phần nhất vào đâu đó khoảng 5h sáng khi các bạn sinh viên thức khuya đã ngủ và những bạn sinh viên khác thì chưa dậy, ngoài ra còn một số thời điểm mà lưu lượng truy cập giảm đột biến sau đó lại nhanh chóng tăng mạnh lại thì tôi không chắc là mình sẽ may mắn để tìm được những thời điểm như vậy...
+> Nhìn vào biểu đồ này tôi có thể chắc chắn rằng mình sẽ dễ dàng đăng kí học phần nhất vào đâu đó khoảng 5h sáng khi các bạn sinh viên thức khuya đã ngủ và những bạn sinh viên khác thì chưa dậy, ngoài ra còn một số thời điểm mà lưu lượng truy cập giảm đột biến sau đó lại nhanh chóng tăng mạnh lại thì tôi không chắc là mình sẽ may mắn để tìm được những thời điểm như vậy...và tất nhiên sau 8h là thời điểm mà sinh viên thức dậy nên việc bạn dkhp lúc này là rất khó khăn:(((
 > Good luck🍀
